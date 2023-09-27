@@ -1,0 +1,12 @@
+__pycache__
+.vscode
+input
+checkpoint
+resnet200d*.pth
+inception*.pth
+densenet*.pth
+seresnet*.pth
+tf_efficient*.pth
+teacher
+stage2
+stage3

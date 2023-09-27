@@ -1,0 +1,6 @@
+*.zip
+*.pkl
+input/
+output/
+models/
+.vscode

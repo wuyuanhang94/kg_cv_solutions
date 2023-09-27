@@ -1,0 +1,11 @@
+.vscode
+input
+hubmap256
+hubmap512
+hubmap1024
+train_tiles
+checkpoint
+legacy_dataset
+external
+pretrained
+hubmap512_plabel_five
