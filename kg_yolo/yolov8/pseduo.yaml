@@ -1,0 +1,6 @@
+
+train: /home/yiw/kg_yolo/yolov8/pseduo
+val: /home/yiw/kg_yolo/yolov8/folds/train4/
+
+nc: 1
+names: ['blood_vessel']

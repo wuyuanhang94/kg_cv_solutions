@@ -7,7 +7,7 @@ import json,itertools
 from typing import Optional
 from sklearn.model_selection import StratifiedKFold
 
-train_df = pd.read_csv('/home/yiw/kg/sart/input/train.csv')
+train_df = pd.read_csv('/home/yiw/Music/train.csv')
 
 def rle_decode(mask_rle, shape):
     '''
